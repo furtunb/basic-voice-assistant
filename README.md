@@ -20,4 +20,10 @@ speech_recognition, pyttsx3, pywhatki, pyjokes, wikipedia, pyautogui, time
 #### 2. Compile the code and say what you want to do. (Listening in background feature can be added(optional))
 
 
+### Options
+
+
+The name of the assistant can be changed by changing the `name` variable in the line 31. 
+
+
 It's that easy to use. There's nothing else to do
